@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wfs</h1>
-<h3 align="center">A deep learning enthusiasm (multimodel, cv), cyber security engineer (operating system, ASM), sportsman (badminton🏸, 🏀 ,⚽, swim, ice hockey) in CUPES</h3>
+<h3 align="center">A deep learning enthusiasm (multimodel, cv), cyber security engineer (operating system, ASM), sportsman (badminton🏸, 🏀 ,⚽, swim, ice hockey) in the Institution of Artificial Intelligence in Sport（CUPES）in the capital university of physical education and sport</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycwfs" alt="ycwfs" /></a> </p>
 
