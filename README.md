@@ -3,9 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycwfs" alt="ycwfs" /></a> </p>
 
+## Competition Honors
+  - Modelscope-Sora挑战赛 亚军
+  - 智源行业数据应用大模型挑战赛 ——金融数据赛道 top 1
+  - WWW2025 多模态对话系统意图识别挑战赛 第9名
+  - Better-Synth 多模态大模型数据合成挑战赛 第9名
+  - CCF大模型安全挑战赛赛道2：内容安全检测器的红队攻击 第15名
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/bob tony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bob tony" height="30" width="40" /></a>
+钉钉号: ycwfs6
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
