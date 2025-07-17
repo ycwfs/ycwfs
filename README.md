@@ -18,6 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 钉钉号: ycwfs6
+
+email: bobtony1377666@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
