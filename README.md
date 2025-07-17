@@ -3,12 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycwfs" alt="ycwfs" /></a> </p>
 
+## Academic papers
+  - [ACM MM 2025] Learning Long-Range Action Representation by Two-Stream Mamba Pyramid Network for Figure Skating Assessment
+  - [CVPRW 2024] From Beats to Scores: A Multi-Modal Framework for Comprehensive Figure Skating Assessment
+
 ## Competition Honors
-  - Modelscope-Sora挑战赛 亚军
-  - 智源行业数据应用大模型挑战赛 ——金融数据赛道 top 1
-  - WWW2025 多模态对话系统意图识别挑战赛 第9名
-  - Better-Synth 多模态大模型数据合成挑战赛 第9名
-  - CCF大模型安全挑战赛赛道2：内容安全检测器的红队攻击 第15名
+  - 阿里云天池 智源行业数据应用大模型挑战赛2025（金融数据赛道）冠军
+  - 阿里云天池（Data-Juicer系列赛）Modelscope-Sora挑战赛2024 亚军
+  - 阿里云天池 饿了么AI算法大赛“赛道一：智慧养老—助老年群体智慧点餐”2025优胜奖 (第五名)
+  - 阿里云天池（Data-Juicer系列赛）Better Synth多模态大模型数据合成挑战赛 2024 优胜奖 (第九名)
+  - 阿里云天池 WWW2025多模态对话系统意图识别挑战赛 第九名
+  - 阿里云天池 CCF大模型安全挑战赛赛道2：内容安全检测器的红队攻击 第15名
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
