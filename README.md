@@ -4,7 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycwfs" alt="ycwfs" /></a> </p>
 
 ## Academic papers
-  - [ACM MM 2025] Learning Long-Range Action Representation by Two-Stream Mamba Pyramid Network for Figure Skating Assessment
+  - [ACM MM 2025] Learning Long-Range Action Representation by Two-Stream Mamba Pyramid Network for Figure Skating Assessment (CCF A)
+  - Cross-attention spatial–temporal convolutional neural network for energy expenditure estimation on the basis of physical fitness characteristics. Defence Technology（中科院一区TOP IF 5.9）
   - [CVPRW 2024] From Beats to Scores: A Multi-Modal Framework for Comprehensive Figure Skating Assessment
 
 ## Competition Honors
