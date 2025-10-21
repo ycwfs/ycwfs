@@ -22,6 +22,8 @@
 钉钉号: ycwfs6
 
 email: bobtony1377666@gmail.com
+
+欢迎合作，交流各领域科研与竞赛
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
