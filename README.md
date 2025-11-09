@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wfs</h1>
-<h3 align="center">A deep learning enthusiast (multimodel, cv), cyber security engineer (operating system, ASM), sportsman (badminton🏸, 🏀 ,⚽, swim, ice hockey) in the Institution of Artificial Intelligence in Sport(IAIS) in the capital university of physical education and sport(CUPES)</h3>
+<h3 align="center">A deep learning enthusiast (multimodel, cv), cyber security engineer (operating system, ASM), sportsman (badminton🏸, 🏀 ,⚽, swim, ice hockey) in the Institution of Artificial Intelligence in Sport(IAIS) in the Capital University of Physical Education and Sport (CUPES)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycwfs" alt="ycwfs" /></a> </p>
 
@@ -12,6 +12,7 @@
   - 阿里云天池 智源行业数据应用大模型挑战赛2025（金融数据赛道）冠军
   - 阿里云天池 2025全球AI攻防挑战赛-赛道三：泛终端智能语音交互认证-检测赛 亚军
   - 阿里云天池（Data-Juicer系列赛）Modelscope-Sora挑战赛2024 亚军
+  - 阿里云天池 “睿创杯”赛道一：轻量化双光(可见光-红外)目标检测 二等奖
   - 阿里云天池 饿了么AI算法大赛“赛道一：智慧养老—助老年群体智慧点餐”2025优胜奖 (第五名)
   - 阿里云天池（Data-Juicer系列赛）Better Synth多模态大模型数据合成挑战赛 2024 优胜奖 (第九名)
   - 阿里云天池 WWW2025多模态对话系统意图识别挑战赛 第九名
