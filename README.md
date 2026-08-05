@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm wfs</h1>
 <h3 align="center">A deep learning enthusiast (multimodel, cv), cybersecurity engineer (operating system, ASM), sportsman (badminton🏸, 🏀 ,⚽, swim, ice hockey) in the Institution of Artificial Intelligence in Sport(IAIS) at Wuhan University and IAIS(CUPES)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycwfs" alt="ycwfs" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycwfs" alt="ycwfs" /></a> </p> -->
 
 ## Academic papers
+  - [ACM MM 2026] Recognition-Conditioned Reasoning: A Training-Free Multimodal-LLM Pipeline for Fine-Grained Micro-Action Understanding (CCF A)
   - [ACM MM 2025] Learning Long-Range Action Representation by Two-Stream Mamba Pyramid Network for Figure Skating Assessment (CCF A)
   - Cross-attention spatial–temporal convolutional neural network for energy expenditure estimation on the basis of physical fitness characteristics. Defence Technology（中科院一区TOP IF 5.9）
   - [CVPRW 2024] From Beats to Scores: A Multi-Modal Framework for Comprehensive Figure Skating Assessment
@@ -33,4 +34,6 @@ email: bobtony1377666@gmail.com
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ycwfs&hide=scss,jupyter%20notebook&show_icons=true&theme=onedark&locale=en&layout=compact" alt="ycwfs" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ycwfs&hide=scss,jupyter%20notebook&show_icons=true&theme=onedark&locale=en&layout=compact" alt="ycwfs" /></p> -->
+
+[![ycwfs's GitHub stats](https://github-stats-extended.vercel.app/api?username=ycwfs)](https://github.com/stats-organization/github-stats-extended)
