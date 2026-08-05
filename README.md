@@ -9,14 +9,15 @@
   - [CVPRW 2024] From Beats to Scores: A Multi-Modal Framework for Comprehensive Figure Skating Assessment
 
 ## Competition Honors
-  - 阿里云天池 智源行业数据应用大模型挑战赛2025（金融数据赛道）冠军
-  - 阿里云天池 2025全球AI攻防挑战赛-赛道三：泛终端智能语音交互认证-检测赛 亚军
-  - 阿里云天池（Data-Juicer系列赛）Modelscope-Sora挑战赛2024 亚军
-  - 阿里云天池 “睿创杯”赛道一：轻量化双光(可见光-红外)目标检测 二等奖
-  - 阿里云天池 饿了么AI算法大赛“赛道一：智慧养老—助老年群体智慧点餐”2025优胜奖 (第五名)
-  - 阿里云天池（Data-Juicer系列赛）Better Synth多模态大模型数据合成挑战赛 2024 优胜奖 (第九名)
-  - 阿里云天池 WWW2025多模态对话系统意图识别挑战赛 第九名
-  - 阿里云天池 CCF大模型安全挑战赛赛道2：内容安全检测器的红队攻击 第15名
+  * ACM MM 2026 Micro-Action Competition Track Three - **Champion**
+  * Alibaba Cloud Tianchi **Industry Data Application LLM Challenge 2025 (Financial Data Track)** — **Champion**
+  * Alibaba Cloud Tianchi **Global AI Attack & Defense Challenge 2025 – Track 3: Cross-Device Intelligent Speech Interaction Authentication (Detection Track)** — **Runner-up**
+  * Alibaba Cloud Tianchi **Data-Juicer Series: ModelScope-Sora Challenge 2024** — **Runner-up**
+  * Alibaba Cloud Tianchi **"Ruichuang Cup" – Track 1: Lightweight Dual-Modal (Visible–Infrared) Object Detection** — **Second Prize**
+  * Alibaba Cloud Tianchi **Ele.me AI Algorithm Competition 2025 – Track 1: Smart Elderly Care – Intelligent Food Ordering for Older Adults** — **Merit Award (5th Place)**
+  * Alibaba Cloud Tianchi **Data-Juicer Series: Better Synth Multimodal LLM Data Synthesis Challenge 2024** — **Merit Award (9th Place)**
+  * Alibaba Cloud Tianchi **WWW 2025 Multimodal Dialogue System Intent Recognition Challenge** — **9th Place**
+  * Alibaba Cloud Tianchi **CCF Large Language Model Security Challenge – Track 2: Red Team Attack on Content Safety Detectors** — **15th Place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
