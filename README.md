@@ -24,7 +24,7 @@
 <p align="left">
 钉钉号: ycwfs6
 
-email: bobtony1377666@gmail.com
+email: ycwfs6@whu.edu.cn
 
 欢迎合作，交流各领域科研与竞赛
 </p>
