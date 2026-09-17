@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-钉钉号: ycwfs6
+WeChat：Lesliewang666
 
 email: ycwfs6@whu.edu.cn
 
