@@ -4,6 +4,8 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycwfs" alt="ycwfs" /></a> </p> -->
 
 ## Academic papers
+  - [NeurIPS 2026] Masked Diffusion Vision-Language Models for Temporal Action Localization (CCF A)
+  - [NeurIPS 2026 DB] Beyond Score: A Dataset for Joint Action and Score Predictions in 2v2 Sports (third place) (CCF A)
   - [ACM MM 2026] Recognition-Conditioned Reasoning: A Training-Free Multimodal-LLM Pipeline for Fine-Grained Micro-Action Understanding (CCF A)
   - [ACM MM 2025] Learning Long-Range Action Representation by Two-Stream Mamba Pyramid Network for Figure Skating Assessment (CCF A)
   - Cross-attention spatial–temporal convolutional neural network for energy expenditure estimation on the basis of physical fitness characteristics. Defence Technology（中科院一区TOP IF 5.9 / JCR Q1）
